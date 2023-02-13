@@ -1,4 +1,8 @@
-``` MYSQL
+# JDBC를 이용한 자바 dbapp
+
+## 데이터베이스 테이블
+
+```sql
 CREATE DATABASE metadb;
 
 use metadb;
